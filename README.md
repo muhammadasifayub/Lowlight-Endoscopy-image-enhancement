@@ -1,1 +1,1 @@
-Enhancing Low-Light Endoscopy Images with Generative Adversarial Networks: A Step Forward in Diagnostic Precision
+**Enhancing Low-Light Endoscopy Images with Generative Adversarial Networks: A Step Forward in Diagnostic Precision**
