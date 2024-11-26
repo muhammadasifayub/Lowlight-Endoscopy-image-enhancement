@@ -12,7 +12,7 @@ Low light endoscopy images taken from CVC-colonDB [2]
 
 <http://vi.cvc.uab.es/colon-qa/cvccolondb/>
 
-![](media/7f24276d4ab502fbcb5d1f8b948e0aa7.png)
+![](fig2.png)
 
 1.  **Proposed Methods**
 
